@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>علمني MATH</title>
+<style>
+body{
+font-family: Arial;
+direction: rtl;
+text-align:center;
+background:#f4f4f4;
+padding:40px;
+}
+h1{
+color:#1a73e8;
+}
+.card{
+background:white;
+padding:20px;
+border-radius:10px;
+max-width:700px;
+margin:auto;
+}
+</style>
+</head>
+<body>
+
+<div class="card">
+<h1>مرحبا بكم في موقع علمني MATH</h1>
+
+<p>
+دروس وتمارين وحلول البكالوريا في مادة الرياضيات.
+</p>
+
+<h2>الأقسام</h2>
+
+<p>📘 دروس</p>
+<p>📝 تمارين</p>
+<p>🎓 بكالوريا</p>
+<p>📹 فيديوهات تعليمية</p>
+
+</div>
+
+</body>
+</html>
